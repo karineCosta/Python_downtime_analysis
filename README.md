@@ -1,6 +1,7 @@
 Production Data Analysis
 
 This project aims to analyze industrial production data to understand the performance of machines, identify failure patterns, and analyze energy consumption and downtime during days when production goals were not met.
+
 Project Description
 
 The code simulates a dataset of production from two machines in a factory, namely M2 and M4. The goal is to:
